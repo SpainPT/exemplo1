@@ -21,5 +21,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("GitHub for the win");
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
