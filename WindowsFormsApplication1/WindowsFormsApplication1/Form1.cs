@@ -24,6 +24,11 @@ namespace WindowsFormsApplication1
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            //teste1
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }
